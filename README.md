@@ -1,4 +1,6 @@
-# 113D_Wiki_Article
+# Cybersecurity on the Edge
+## 113D Wiki Article 
+### By Shilpa Rao
 
 In this article, we will explore a potential security solution to increase the cybersecurity of computation performed on industrial edge devices. Edge devices include programmable logic controllers, microcontrollers, on-site servers, routers, and field-programmable gate arrays (FPGA's). These ubiquitous devices are instrumental to the industries that govern our world, including our electricity grids, healthcare systems, water treatment facilities, transportation logistics, and manufacturing chains. Automating and ensuring the security of these devices is essential, and the implications of automatic hardware cybersecurity are large for any organization. By automating security at the edge, organizations can protect their systems without needing constant human intervention and better adapt to dynamic and unpredictable environments.
 
